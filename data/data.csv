@@ -1,0 +1,31 @@
+Transaction ID,Date,Product,Category,Customer Segment,Price,Quantity Sold,Region,Sales Channel
+1,2023-01-01,LED TV,Electronics,Regular customer,1500,5,Region A,Physical store
+2,2023-01-01,Smartphone,Mobile Devices,Loyal customer,900,10,Region B,Online store
+3,2023-01-02,Laptop,IT,Regular customer,1200,2,Region C,Physical store
+4,2023-01-02,Game Console,Electronics,Loyal customer,500,1,Region A,Online store
+5,2023-01-03,Vacuum Cleaner,Appliances,Regular customer,300,8,Region B,Physical store
+6,2023-01-03,Tablet,Mobile Devices,Loyal customer,400,15,Region C,Online store
+7,2023-01-04,LED TV,Electronics,Regular customer,1400,3,Region A,Physical store
+8,2023-01-04,Smartphone,Mobile Devices,Loyal customer,950,6,Region B,Online store
+9,2023-01-05,Laptop,IT,Regular customer,1300,4,Region C,Physical store
+10,2023-01-05,Game Console,Electronics,Loyal customer,550,12,Region A,Online store
+11,2023-01-06,Vacuum Cleaner,Appliances,Regular customer,320,20,Region B,Physical store
+12,2023-01-06,Tablet,Mobile Devices,Loyal customer,420,30,Region C,Online store
+13,2023-01-07,LED TV,Electronics,Regular customer,1450,7,Region A,Physical store
+14,2023-01-07,Smartphone,Mobile Devices,Loyal customer,920,9,Region B,Online store
+15,2023-01-08,Laptop,IT,Regular customer,1250,11,Region C,Physical store
+16,2023-01-08,Tablet,Mobile Devices,Loyal customer,400,50,Region A,Online store
+17,2023-01-09,Game Console,Electronics,Regular customer,520,14,Region B,Physical store
+18,2023-01-09,Smartphone,Mobile Devices,Loyal customer,960,3,Region C,Online store
+19,2023-01-10,LED TV,Electronics,Regular customer,1480,6,Region A,Physical store
+20,2023-01-10,Vacuum Cleaner,Appliances,Loyal customer,280,8,Region B,Online store
+21,2023-01-11,Smartphone,Mobile Devices,Regular customer,930,13,Region C,Physical store
+22,2023-01-11,Laptop,IT,Loyal customer,1240,16,Region A,Online store
+23,2023-01-12,LED TV,Electronics,Regular customer,1420,19,Region B,Physical store
+24,2023-01-12,Tablet,Mobile Devices,Loyal customer,410,22,Region C,Online store
+25,2023-01-13,Vacuum Cleaner,Appliances,Regular customer,290,25,Region A,Physical store
+26,2023-01-13,Game Console,Electronics,Loyal customer,530,28,Region B,Online store
+27,2023-01-14,Smartphone,Mobile Devices,Regular customer,940,31,Region C,Physical store
+28,2023-01-14,Laptop,IT,Loyal customer,1270,34,Region A,Online store
+29,2023-01-15,LED TV,Electronics,Regular customer,1360,37,Region B,Physical store
+30,2023-01-15,Tablet,Mobile Devices,Loyal customer,430,40,Region C,Online store
