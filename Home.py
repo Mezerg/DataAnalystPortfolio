@@ -11,7 +11,7 @@ def main():
     inject_css_file()
 
     st.title('J.K')
-    st.write('## Data Analysis Portfolio')
+    st.write('# Data Analysis Portfolio')
     st.write('Welcome to my portfolio! Here you can find my projects of data analyses. ')
     st.write('I have prepared 3 projects for you to explore. Enjoy!')
     st.write( 'Shop Sales Analysis, Netflix Analysis, Crime in Los Angeles')
